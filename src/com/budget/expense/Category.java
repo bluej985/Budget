@@ -1,0 +1,7 @@
+package com.budget.expense;
+
+public enum Category {
+
+    UTILITIES, INSURANCE, AUTO, STUDENT_LOANS, CREDIT_CARDS, DAYCARE, GYM, GROCERIES, ENTERTAINMENT, SERIVCE, INCOME;
+
+}
